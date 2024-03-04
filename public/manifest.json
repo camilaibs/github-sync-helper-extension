@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Backstage Github Issues Sync Helper",
+  "description": "Helper for syncing with Backstage Github issues",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["tabGroups", "identity", "storage"],
+  "icons": {
+    "16": "images/icon.png"
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkWYLk6+ZNA/ys+WWHOrc/h3srE3Dcj4GaKUVNCyBwz/E524YvVzHg2TMy/+dN7nwFLxIQoGGfIzLfIH/d+/4c3xJz1ov6VNPcLrWO5XXqnxCHGX2KoYi1DskJcTkneD5c44Br+gyxva3eTdlotCxZRqbvO0JvVTaRhF9WiqraEgVRPuV672bo7ZTDZv1Ia+GN9jBWOpdoDkFnPatl8eVvFZb85eYfdMBwhJS4ZFGHQIr7UUvd4K66XHGAGPCFHOHVNh9EB6hLctiAOvwYbjHh7YMXbW6FXWOters1REvx8znDdeKM4A9F4Uw4KHM6og4tQKkMQ/Qhl9tZoRazG18mQIDAQAB"
+}
